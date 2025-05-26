@@ -3,7 +3,7 @@
 ```py
 class Chard:
     def __init__(self):
-        self.focus = "Anything"
+        self.focus = "Kasada solver"
         self.languages = ["Python", "Javascript"]
         self.learning = "Anything"
         self.discord = "https://discord.gg/radiumcc"
